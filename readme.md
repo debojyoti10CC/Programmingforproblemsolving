@@ -30,3 +30,14 @@ You can compile and run any `.c` file using a C compiler like `gcc`.
 ```bash
 gcc filename.c -o output
 ./output
+
+# 🚀 C Program: Hello World
+
+A simple C program that prints "Hello, World!" to the terminal.  
+> This project is part of my learning journey into C programming and understanding how to compile and run C code using Visual Studio Code.
+
+---
+
+## 📂 Project Structure
+
+
